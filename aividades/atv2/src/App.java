@@ -22,7 +22,7 @@ public class App {
         //int valor = c1.valores();
         int resul = c1.valores();
 
-        System.out.printf("Resultado deu %d", resul);
+        System.out.printf("Resultado deu %.2f", resul);
         
     }
 }

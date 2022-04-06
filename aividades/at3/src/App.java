@@ -7,23 +7,23 @@ public class App {
         Scanner sc = new Scanner(System.in);
 
         Produto p1 = new Produto();
-        Produto p2 = new Produto();
+        
 
         System.out.println("Digite o codigo do produdo: ");
-                p1.codigo = sc.nextInt();
+                p1.codigo = sc.nextDouble();
         System.out.println("Digite a quantidade: ");
-                p1.qtd = sc.nextInt();
+                p1.qtd = sc.nextDouble();
         System.out.println("Digite valor: ");
-                p1.valor = sc.nextInt();
+                p1.valor = sc.nextDouble();
 
         System.out.println("Digite o codigo do produdo: ");
-                p1.codigo = sc.nextInt();
+                p1.codigo = sc.nextDouble();
         System.out.println("Digite a quantidade: ");
-                p1.qtd = sc.nextInt();
+                p1.qtd = sc.nextDouble();
         System.out.println("Digite valor: ");
-                p1.valor = sc.nextInt();
+                p1.valor = sc.nextDouble();
 
-        System.out.printf("Valor total %d" , p1.resultotal);
+        System.out.printf("Valor total %.2f" , p1.resultotal);
         
     }
 }

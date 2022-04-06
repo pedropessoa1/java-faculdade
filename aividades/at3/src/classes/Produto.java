@@ -2,9 +2,9 @@ package classes;
 
 public class Produto {
 
-    public int codigo, qtd, valor, resul1, resul2, resultotal;
+    public double codigo, qtd, valor, resul1, resul2, resultotal;
 
-    public int valortotal(){
+    public double valortotal(){
 
         resul1 = (valor * qtd);
 
