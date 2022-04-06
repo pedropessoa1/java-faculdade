@@ -1,3 +1,7 @@
 {
-  "java.project.sourcePaths": ["aula06-04/ex001/src", "aula06-04/ex002/src"]
+  "java.project.sourcePaths": [
+    "aula06-04/ex002/src",
+    "aula06-04/ex001/src",
+    "aula06-04/ex003/src"
+  ]
 }
