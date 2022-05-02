@@ -10,7 +10,7 @@ public class App {
         System.out.println("Digite o fucionario : ");
                 e1.nome = sc.next(); 
                 
-        System.out.println("Digite o salario: ");
+        System.out.println("Digite o salari: ");
                 e1.salario_bruto = sc.nextDouble();
         
         System.out.println("Digite o valor do imposto: ");
