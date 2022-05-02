@@ -1,8 +1,9 @@
 {
-    "java.project.sourcePaths": [
-        "atividade2/atividade/src",
-        "aividades/atvteste/src",
-        "aividades/atv2/src",
-        "aividades/at3/src"
-    ]
+  "java.project.sourcePaths": [
+    "atividades-sala/aula06-04/ex001/src",
+    "aividades/atvteste/src",
+    "aividades/atv2/src",
+    "aividades/at3/src",
+    "atividades-sala/20-04/ex001/projeto_imc/src"
+  ]
 }
